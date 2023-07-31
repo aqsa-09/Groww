@@ -1,0 +1,25 @@
+*{
+    background-color: black;
+}
+.gallery{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+  .item{
+    padding: 10px;
+    width:20%;
+  }
+.Head{
+  padding-top: 20px;
+  padding-bottom: 20px;
+ background-color: Black;
+}
+.Head p{
+    margin: 10px;
+    color: white;
+    text-align: left;
+}
+.desc{
+    color: white;
+}
